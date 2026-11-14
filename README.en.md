@@ -29,7 +29,7 @@ Yundian AI helps online merchants **source products, prepare assets, generate im
 
 - **Generate listing titles and short titles in bulk.** Use product images, categories, existing titles, and keyword rules. Check length and sync results by product ID. Includes general and women's apparel workflows.
 - **Create product images.** Generate main images, white backgrounds, lifestyle sets, studio-style images, and apparel shots. Change the background, pose, or composition according to the task.
-- **Use reference shots and virtual try-on.** Use your own product images with a reference for lighting, scenery, or styling. Batch by product folder or image and download results or use them in supported listing and editing workflows.
+- **Use reference shots and virtual try-on.** Use your own product images with a reference for lighting, scenery, or styling. Generate photos in batches in the cloud, or create ads and posters from text and reference images. Download the results, reuse them as references, or use them in supported listing and editing workflows.
 
 | Original photo | AI studio photo of the same product |
 | --- | --- |
@@ -54,7 +54,7 @@ Yundian AI helps online merchants **source products, prepare assets, generate im
 - **Make videos from templates.** Preview an example, choose a style, and supply your own product information and media. Reuse suggested shot descriptions and parameters.
 - **Make narrated clips and edit batches.** Generate or reuse scripts, add voiceover, captions, covers, and music, then produce one or more videos per product. Batch editing can run locally or in the cloud.
 
-![Example output from batch product video editing](media/product-video-example.jpg)
+![Frame from the official batch video editing demo](media/product-video-example.jpg)
 
 <a name="product-listing"></a>
 
@@ -62,7 +62,7 @@ Yundian AI helps online merchants **source products, prepare assets, generate im
 
 - **List from local product folders.** Match main images, detailed descriptions, videos, categories, and SKUs. Prepare content and fill in variants, prices, inventory, and fulfillment fields. Submit to a supported status and record each result.
 - **Apply multiple category rules in a Douyin Shop batch.** Store category attributes and SKU rules in one template and apply them by product category.
-- **Edit and publish fully managed TikTok Shop products via Miaoshou.** Localize titles and detail images, organize variants and packaging data, add available compliance materials, and save or publish selected items.
+- **Edit and publish fully managed TikTok Shop products via Miaoshou.** Localize titles and detail images, organize variants, set JIT or standard inventory options, add weight, package dimensions, and available compliance materials, then save or publish selected items.
 
 ### Bulk editing and catalog updates
 
@@ -80,9 +80,10 @@ Select products and update their titles, attributes, main images, product detail
 
 ## Batch asset tools and product spreadsheet cleanup
 
-- **Prepare images and folders.** Crop square and vertical images, extract candidate main images from videos, organize product folders, and apply detail-page templates. AI image review can check for specified text, tags, or ads and apply local corrections as configured.
-- **Update catalog media.** Download available video assets, rename files, upload and link them to products in bulk, collect Taobao video IDs, and replace listing images through supported marketplace workflows.
-- **Clean up product sheets and SKU data.** Organize titles, prices, codes, brands, and SKU tables into import files, review lists, or video operations records.
+- **Prepare images and folders.** Process local assets in batches, crop square and vertical images, extract candidate main images from videos, organize product folders, and apply detail-page templates. AI image review can check for specified text, tags, or ads and apply targeted corrections.
+- **Download, upload, and link videos.** Download available videos in batches from Douyin or Xiaohongshu share links and organize them by product. Upload to Taobao or Douyin Shop, collect Taobao video IDs, or link videos to Douyin Shop products using a spreadsheet.
+- **Replace listing images in bulk.** Use Miaoshou for Taobao main images and Douyin Shop main and detail images, and Super Store Manager for Taobao detail images.
+- **Clean up product sheets and SKU data.** Organize titles, prices, codes, brands, and SKU tables into import files, review lists, or video operations records. Taobao workflows can also prepare promotional SKUs and record when original values are restored.
 
 <a name="product-sourcing"></a>
 
