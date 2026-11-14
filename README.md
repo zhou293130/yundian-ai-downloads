@@ -4,7 +4,7 @@
 
 云店AI（Yundian AI）是面向电商商家的 Windows 软件。从**找货源、整理素材**，到**生成商品标题、主图、详情页和短视频**，再到**批量上架、修改已有商品和做店铺运营**，都可以在一个工作台按批处理。云店 Agent 和 MCP 还能把准备资料、执行任务和查看结果串起来。
 
-**[免费下载 Windows 客户端](https://www.ai-yundian.com/download)** · [官网功能总览](https://www.ai-yundian.com/features) · [视频教程](https://www.ai-yundian.com/tutorials) · [版本更新](releases/v1.0.7.md)
+**[官方下载中心](https://www.ai-yundian.com/download)** · **[GitHub 免费下载](https://github.com/zhou293130/yundian-ai-downloads/releases/tag/v1.0.7)** · [官网功能总览](https://www.ai-yundian.com/features) · [视频教程](https://www.ai-yundian.com/tutorials)
 
 **每期 0 元免费版，功能权限齐全。** 各套餐的使用额度不同，具体额度以账号中心显示为准。
 
@@ -113,7 +113,7 @@
 
 ## Windows 软件下载与免费版领取
 
-1. 打开[官方下载中心](https://www.ai-yundian.com/download)，选择「百度网盘免费下载」。下载页提供提取码和安装说明。
+1. 可以从[官方下载中心](https://www.ai-yundian.com/download)的百度网盘获取完整 ZIP，也可在 [GitHub 发布页](https://github.com/zhou293130/yundian-ai-downloads/releases/tag/v1.0.7)下载分卷并按说明合并。
 2. 安装 Windows 客户端，注册并登录云店AI。
 3. 在账号中心领取 **0 元免费版**。默认每期 30 天，到期后可再次领取。平台和类目支持范围以对应模块为准，使用额度以账号中心显示为准。
 

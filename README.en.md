@@ -4,7 +4,7 @@
 
 Yundian AI helps online merchants **source products, prepare assets, generate images and videos, manage listings, and run store operations** in one Windows app. Yundian Agent and MCP can connect the steps from preparing files to running tasks and checking results.
 
-**[Free Windows download](https://www.ai-yundian.com/download)** · [Official feature overview](https://www.ai-yundian.com/features) · [Video guides in Chinese](https://www.ai-yundian.com/tutorials) · [Release notes](releases/v1.0.7.md#english)
+**[Official download center](https://www.ai-yundian.com/download)** · **[Free GitHub download](https://github.com/zhou293130/yundian-ai-downloads/releases/tag/v1.0.7)** · [Official feature overview](https://www.ai-yundian.com/features) · [Video guides in Chinese](https://www.ai-yundian.com/tutorials)
 
 **The free plan costs ¥0 per term and includes access to all product features.** Usage quotas vary by plan. See your Account Center for current limits.
 
@@ -113,7 +113,7 @@ Save reusable job templates, track progress and errors in the Task Center, and f
 
 ## Download and activate the free plan
 
-1. Open the [official download page](https://www.ai-yundian.com/download) and choose **百度网盘免费下载** (free download via Baidu Netdisk). The page provides the access code and installation instructions.
+1. Get the complete ZIP through Baidu Netdisk on the [official download page](https://www.ai-yundian.com/download), or get the split archive and joining instructions from the [GitHub release](https://github.com/zhou293130/yundian-ai-downloads/releases/tag/v1.0.7).
 2. Install the Windows app, create a Yundian AI account, and sign in.
 3. Activate the **¥0 free plan** in the Account Center. The default term is 30 days and you can claim another term after expiry. Coverage varies by marketplace and category. See your Account Center for usage quotas.
 
