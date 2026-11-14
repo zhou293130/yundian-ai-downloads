@@ -10,15 +10,23 @@ Yundian AI brings product asset preparation, AI content generation, bulk listing
 
 ## Watch a product listing in action
 
-[![Play the 37-second screen recording](media/listing-demo-cover.jpg)](media/listing-demo.mp4)
+![Live listing preview showing image upload, title entry, and successful submission](media/listing-preview.gif)
 
-[Open the demo video](media/listing-demo.mp4). The app loads product images, fills in the title and attributes, uploads images and video, enters SKU details, submits the listing to the marketplace's product inventory, and moves on to the next item. The recording is edited and sped up.
+[Download the full 37-second demo (MP4)](https://github.com/zhou293130/yundian-ai-downloads/raw/refs/heads/main/media/listing-demo.mp4). The app loads product images, fills in the title and attributes, uploads images and video, enters SKU details, submits the listing to the marketplace's product inventory, and moves on to the next item. The recording is edited and sped up.
 
 ## What you can do
 
-- **Create and update listings in bulk** on Taobao, Tmall, and Douyin Shop, with workflows specific to each marketplace.
-- **Prepare product content with AI**, including titles, main images, product detail content, and videos. Use the output in supported listing and editing workflows.
-- **Set up and track tasks**. Save settings you use regularly and check progress, results, and error details in the Task Center.
+| Workflow | What you can do |
+| --- | --- |
+| Listings and catalog updates | List products from local files on Taobao, Tmall, and Douyin Shop, update existing products in bulk, and edit or publish products from the Miaoshou fully managed TikTok Shop collection inbox. |
+| AI titles, images, and product details | Generate listing titles and short titles. Create main images, white-background images, studio-style photography, and full product detail pages. |
+| AI video and batch editing | Generate scripts, voiceovers, and captions. Edit batches of product videos or create clips using references, start and end frames, or templates. |
+| Store operations and publishing | Upload assets for search and recommendations, collect trending terms, submit eligible products for marketplace opportunities, and publish videos through supported workflows. |
+| Asset and catalog tools | Crop images, extract video frames, organize product files and spreadsheets, replace images, and upload or link videos in bulk. |
+| Product sourcing | Organize supplier materials from Xingzuo, Xingqinglian, and Soukuan, then move from selection to asset collection and distribution. |
+| Yundian Agent and MCP | Give instructions in plain language, prepare materials, invoke available tools, and track results. |
+
+[View detailed features](FEATURES.en.md)
 
 ![Yundian AI Windows workspace](media/workbench.jpg)
 
