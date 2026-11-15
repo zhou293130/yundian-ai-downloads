@@ -4,6 +4,12 @@
 
 云店AI（Yundian AI）是面向电商商家的 Windows 软件。从**找货源、整理素材**，到**生成商品标题、主图、详情页和短视频**，再到**批量上架、修改已有商品和做店铺运营**，都可以在一个工作台按批处理。云店 Agent 和 MCP 还能把准备资料、执行任务和查看结果串起来。
 
+## 商品自动上架实操
+
+![真实商品上架录屏预览](media/listing-preview.gif)
+
+[下载 37 秒脱敏演示（MP4）](https://github.com/zhou293130/yundian-ai-downloads/raw/refs/heads/main/media/listing-demo.mp4)。演示读取图片、填写标题和属性、上传素材、填写 SKU、提交到商品仓库并继续下一款。录屏经剪辑和快进。
+
 **[官方下载中心](https://www.ai-yundian.com/download)** · **[GitHub 免费下载](https://github.com/zhou293130/yundian-ai-downloads/releases/tag/v1.0.7)** · [官网功能总览](https://www.ai-yundian.com/features) · [视频教程](https://www.ai-yundian.com/tutorials)
 
 **每期 0 元免费版，功能权限齐全。** 各套餐的使用额度不同，具体额度以账号中心显示为准。
@@ -31,9 +37,7 @@
 - **AI 商品主图和白底图。** 做方图、场景套图、柔光棚拍、挂拍、手持、平铺或立体展示，也能换背景、换构图。
 - **AI 商拍、仿拍和模特试衣。** 用自己的商品参考样片的姿势、光线和场景，支持模特换姿、指定人物试衣和云端批量生图。也可用文字和参考图制作广告、海报，成品可以下载、作为下一轮参考，或用于已接通的上架与编辑任务。
 
-| 商品原图 | 同款商品 AI 商拍案例 |
-| --- | --- |
-| ![服装商品原图](media/product-photo-original.jpg) | ![同款服装的 AI 模特棚拍效果](media/product-photo-studio.jpg) |
+![云店AI 的「AI生成电商图片」页面，展示主图创作工具和模特换姿效果](media/product-image-workspace.png)
 
 <a name="product-details"></a>
 
@@ -104,12 +108,6 @@
 保存常用规则为模板，在任务中心看执行进度、结果和失败原因，在生成历史找回图片、详情和视频成品。店铺登录环境分别管理，多店铺、多任务和团队子账号按权限安排，支持的浏览器任务可在窗口最小化后继续运行。
 
 [查看详细功能](FEATURES.md) · [查询操作文档](https://www.ai-yundian.com/docs)
-
-## 实操录屏 · 从商品资料到提交
-
-![真实商品上架录屏预览](media/listing-preview.gif)
-
-[下载 37 秒脱敏演示（MP4）](https://github.com/zhou293130/yundian-ai-downloads/raw/refs/heads/main/media/listing-demo.mp4)。演示读取图片、填写标题和属性、上传素材、填写 SKU、提交到商品仓库并继续下一款。录屏经剪辑和快进。
 
 ## Windows 软件下载与免费版领取
 

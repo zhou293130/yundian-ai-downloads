@@ -4,6 +4,12 @@
 
 Yundian AI helps online merchants **source products, prepare assets, generate images and videos, manage listings, and run store operations** in one Windows app. Yundian Agent and MCP can connect the steps from preparing files to running tasks and checking results.
 
+## Watch an automated listing task
+
+![Screen recording preview of a product listing task](media/listing-preview.gif)
+
+[Download the 37-second demo (MP4)](https://github.com/zhou293130/yundian-ai-downloads/raw/refs/heads/main/media/listing-demo.mp4). The demo loads images, fills in the title and attributes, uploads assets, enters SKU data, submits the product to the marketplace's warehouse, and moves to the next product. The recording is edited and sped up.
+
 **[Official download center](https://www.ai-yundian.com/download)** · **[Free GitHub download](https://github.com/zhou293130/yundian-ai-downloads/releases/tag/v1.0.7)** · [Official feature overview](https://www.ai-yundian.com/features) · [Video guides in Chinese](https://www.ai-yundian.com/tutorials)
 
 **The free plan costs ¥0 per term and includes access to all product features.** Usage quotas vary by plan. See your Account Center for current limits.
@@ -31,9 +37,7 @@ Yundian AI helps online merchants **source products, prepare assets, generate im
 - **Create product images.** Generate main images, white backgrounds, lifestyle sets, studio-style images, and apparel shots. Change the background, pose, or composition according to the task.
 - **Use reference shots and virtual try-on.** Use your own product images with a reference for lighting, scenery, or styling. Generate photos in batches in the cloud, or create ads and posters from text and reference images. Download the results, reuse them as references, or use them in supported listing and editing workflows.
 
-| Original photo | AI studio photo of the same product |
-| --- | --- |
-| ![Original apparel product photo](media/product-photo-original.jpg) | ![AI studio photo of the same garment on a model](media/product-photo-studio.jpg) |
+![Yundian AI product image workspace showing its creation controls and a model pose example](media/product-image-workspace.png)
 
 <a name="product-details"></a>
 
@@ -104,12 +108,6 @@ Select products and update their titles, attributes, main images, product detail
 Save reusable job templates, track progress and errors in the Task Center, and find generated images, product details, and videos in your history. Manage store sign-in environments and team access. Supported browser tasks can keep running while minimized.
 
 [View detailed features](FEATURES.en.md) · [Documentation in Chinese](https://www.ai-yundian.com/docs)
-
-## Screen recording · From product assets to submission
-
-![Screen recording preview of a product listing task](media/listing-preview.gif)
-
-[Download the 37-second demo (MP4)](https://github.com/zhou293130/yundian-ai-downloads/raw/refs/heads/main/media/listing-demo.mp4). The demo loads images, fills in the title and attributes, uploads assets, enters SKU data, submits the product to the marketplace's warehouse, and moves to the next product. The recording is edited and sped up.
 
 ## Download and activate the free plan
 
